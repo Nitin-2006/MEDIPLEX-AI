@@ -1,6 +1,6 @@
 
 # 🏥 Mediplex AI — Public Health Intelligence Platform
-Link : https://mediplex-ai2-0.onrender.com/
+
 Link : https://mediplexai.vercel.app/
 
 
