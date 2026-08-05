@@ -1,6 +1,20 @@
 
 # 🏥 Mediplex AI — Public Health Intelligence Platform
 
+<p align="center">
+  <a href="https://mediplexai.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🌍%20Open%20MediPlex%20AI-Click%20Here-success?style=for-the-badge"
+      alt="Live Demo"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>🔗 Live Website</b><br>
+  <a href="https://mediplexai.vercel.app/">https://mediplexai.vercel.app/</a>
+</p>
+
 Link : https://mediplexai.vercel.app/
 
 
